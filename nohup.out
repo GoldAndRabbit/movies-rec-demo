@@ -1,0 +1,690 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-03-14 17:57:48,216 [    393]   WARN - llij.ide.plugins.PluginManager - Resource bundle redefinition for plugin 'com.jetbrains.pycharm.community.customization'. Old value: messages.ActionsBundle, new value: messages.PyBundle 
+2021-03-14 17:57:48,915 [   1092]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-03-14 17:57:48,916 [   1093]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-03-14 17:57:48,916 [   1093]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-03-14 17:57:48,916 [   1093]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-03-14 17:57:48,930 [   1107]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: IdeaVIM] 
+2021-03-14 17:57:48,930 [   1107]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: IdeaVIM] 
+2021-03-14 17:57:48,930 [   1107]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: IdeaVIM] 
+2021-03-14 17:57:49,094 [   1271]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2021-03-14 17:57:49,099 [   1276]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: PythonCore] 
+2021-03-14 17:57:49,099 [   1276]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: PythonCore] 
+2021-03-14 17:57:51,368 [   3545]   WARN -        #com.intellij.idea.Main - can't parse gsettings line: @a(ss) [] 
+
+
+
+
+
+
+
+
+2021-03-14 17:57:53,435 [   5612]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;.._info_crawler 
+2021-03-14 17:57:53,516 [   5693]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - caffe2.python.caffe2_pybind11_state 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - caffe2.python.caffe2_pybind11_state_gpu 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - dgl._ffi._cy3.core 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - dgl.libdgl 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - lightgbm.lib_lightgbm 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - llvmlite.binding.libllvmlite 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - scipy.optimize._lsap_ 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.geometry 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.interpolation 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.transform 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.draw._draw 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.external.tifffile._tifffile 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._hessian_det_appx 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._hoghistogram 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._texture 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.brief_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.censure_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.corner_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.orb_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.filters._ctmf 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.bilateral_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.core_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.generic_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.percentile_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.future.graph._ncut_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.graph._mcp 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.graph._spath 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.graph.heap 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.io._plugins._colormixer 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.io._plugins._histograms 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._ccomp 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._find_contours_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._marching_cubes_classic_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._marching_cubes_lewiner_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._moments_cy 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._pnpoly 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._convex_hull 
+2021-03-14 17:58:24,095 [  36272]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._greyreconstruct 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._skeletonize_3d_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._skeletonize_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._watershed 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._denoise_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._nl_means_denoising 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_1d 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_2d 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_3d 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._felzenszwalb_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._quickshift_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._slic 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._hough_transform 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._radon_transform 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._seam_carving 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._warps_cy 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.compiler.tf2tensorrt.python.ops.libtftrt 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.compiler.tf2xla.ops._xla_ops 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.ffmpeg.ffmpeg 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.ignite._ignite_ops 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.rpc.python.kernel_tests.libtestexample 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.tensor_forest.libforestprotos 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - test.test_evaluate.init_extension_module.__init__ 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libc10 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libc10_cuda 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_detectron_ops_gpu 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_module_test_dynamic 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_nvrtc 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_observers 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libshm 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtensorpipe 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_cpu 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_cuda 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_global_deps 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_python 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._fps 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._graclus 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._grid 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._knn 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._nearest 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._radius 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._rw 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._sampler 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._version 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._scatter 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._segment_coo 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._segment_csr 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._version 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._convert 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._diag 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._metis 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._relabel 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._rw 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._saint 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._sample 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._spmm 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._spspmm 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._version 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._basis 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._version 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._weighting 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torchvision._C 
+2021-03-14 17:58:24,096 [  36273]   WARN - .skeletons.PySkeletonRefresher - torchvision.image 
+2021-03-14 17:58:32,286 [  44463]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2021-03-14 17:58:32,286 [  44463]   WARN - .skeletons.PySkeletonRefresher - caffe2.python.caffe2_pybind11_state 
+2021-03-14 17:58:32,286 [  44463]   WARN - .skeletons.PySkeletonRefresher - caffe2.python.caffe2_pybind11_state_gpu 
+2021-03-14 17:58:32,286 [  44463]   WARN - .skeletons.PySkeletonRefresher - dgl._ffi._cy3.core 
+2021-03-14 17:58:32,286 [  44463]   WARN - .skeletons.PySkeletonRefresher - dgl.libdgl 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - lightgbm.lib_lightgbm 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - llvmlite.binding.libllvmlite 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - scipy.optimize._lsap_ 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.geometry 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.interpolation 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage._shared.transform 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.draw._draw 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.external.tifffile._tifffile 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._hessian_det_appx 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._hoghistogram 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature._texture 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.brief_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.censure_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.corner_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.feature.orb_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.filters._ctmf 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.bilateral_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.core_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.generic_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.filters.rank.percentile_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.future.graph._ncut_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.graph._mcp 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.graph._spath 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.graph.heap 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.io._plugins._colormixer 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.io._plugins._histograms 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._ccomp 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._find_contours_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._marching_cubes_classic_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._marching_cubes_lewiner_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._moments_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.measure._pnpoly 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._convex_hull 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._greyreconstruct 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._skeletonize_3d_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._skeletonize_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.morphology._watershed 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._denoise_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._nl_means_denoising 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_1d 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_2d 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.restoration._unwrap_3d 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._felzenszwalb_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._quickshift_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.segmentation._slic 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._hough_transform 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._radon_transform 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._seam_carving 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - skimage.transform._warps_cy 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.compiler.tf2tensorrt.python.ops.libtftrt 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.compiler.tf2xla.ops._xla_ops 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.ffmpeg.ffmpeg 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.ignite._ignite_ops 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.rpc.python.kernel_tests.libtestexample 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - tensorflow.contrib.tensor_forest.libforestprotos 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - test.test_evaluate.init_extension_module.__init__ 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libc10 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libc10_cuda 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_detectron_ops_gpu 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_module_test_dynamic 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_nvrtc 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libcaffe2_observers 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libshm 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtensorpipe 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_cpu 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_cuda 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_global_deps 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch.lib.libtorch_python 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._fps 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._graclus 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._grid 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._knn 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._nearest 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._radius 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._rw 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._sampler 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_cluster._version 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._scatter 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._segment_coo 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._segment_csr 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_scatter._version 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._convert 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._diag 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._metis 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._relabel 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._rw 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._saint 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._sample 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._spmm 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._spspmm 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_sparse._version 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._basis 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._version 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torch_spline_conv._weighting 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torchvision._C 
+2021-03-14 17:58:32,287 [  44464]   WARN - .skeletons.PySkeletonRefresher - torchvision.image 
+2021-03-14 17:58:36,627 [  48804]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 17:58:36,638 [  48815]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:04:12,042 [ 384219]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:04:12,043 [ 384220]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;p 
+2021-03-14 18:04:15,055 [ 387232]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.jetbrains.python.packaging.PyCondaPackageService 
+2021-03-14 18:04:21,301 [ 393478]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:04:21,308 [ 393485]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:05:10,379 [ 442556]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:05:10,379 [ 442556]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python3 
+2021-03-14 18:06:23,063 [ 515240]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:06:23,069 [ 515246]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:06:23,805 [ 515982]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:06:23,806 [ 515983]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python3 
+2021-03-14 18:06:49,927 [ 542104]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:06:49,934 [ 542111]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:06:50,677 [ 542854]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:06:50,677 [ 542854]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python3 
+2021-03-14 18:06:52,350 [ 544527]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:06:52,357 [ 544534]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:06:57,505 [ 549682]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:06:57,505 [ 549682]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:09:22,271 [ 694448]   WARN - minal.model.TerminalTextBuffer - Terminal height < screen buffer line count: 15 < 16 
+2021-03-14 18:11:19,356 [ 811533]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:11:19,364 [ 811541]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:11:21,285 [ 813462]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:11:21,290 [ 813467]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:11:57,374 [ 849551]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:11:57,381 [ 849558]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:11:57,968 [ 850145]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:11:57,968 [ 850145]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:13:13,513 [ 925690]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:13:13,519 [ 925696]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:13:18,203 [ 930380]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:13:18,204 [ 930381]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;A 
+2021-03-14 18:13:18,206 [ 930383]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:13:18,219 [ 930396]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:13:20,415 [ 932592]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:13:20,415 [ 932592]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:15:09,759 [1041936]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:15:09,765 [1041942]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:15:10,638 [1042815]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:15:10,638 [1042815]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:15:45,848 [1078025]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:15:45,859 [1078036]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:15:46,508 [1078685]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:15:46,508 [1078685]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:18:43,902 [1256079]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:18:43,912 [1256089]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:18:44,532 [1256709]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:18:44,532 [1256709]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:18:56,697 [1268874]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:18:56,705 [1268882]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:18:57,434 [1269611]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:18:57,434 [1269611]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:19:08,761 [1280938]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:19:08,771 [1280948]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:19:09,428 [1281605]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:19:09,428 [1281605]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:20:34,447 [1366624]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:20:34,454 [1366631]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:20:35,021 [1367198]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:20:35,021 [1367198]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:21:11,698 [1403875]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:21:11,705 [1403882]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:21:12,301 [1404478]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:21:12,301 [1404478]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:21:26,597 [1418774]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:21:26,605 [1418782]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:21:27,120 [1419297]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:21:27,120 [1419297]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:21:50,683 [1442860]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:21:50,690 [1442867]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:21:51,253 [1443430]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:21:51,253 [1443430]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:22:04,488 [1456665]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:22:04,495 [1456672]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:22:05,064 [1457241]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:22:05,064 [1457241]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:23:42,401 [1554578]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:23:42,408 [1554585]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:23:43,000 [1555177]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:23:43,001 [1555178]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:25:08,361 [1640538]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:25:08,370 [1640547]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:25:08,838 [1641015]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:25:08,838 [1641015]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:25:19,823 [1652000]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:25:19,829 [1652006]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:25:20,415 [1652592]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:25:20,416 [1652593]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:27:04,349 [1756526]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:27:04,358 [1756535]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:27:11,083 [1763260]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (28)!!! 
+2021-03-14 18:27:11,090 [1763267]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (28)!!! 
+2021-03-14 18:27:21,890 [1774067]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (31)!!! 
+2021-03-14 18:27:21,898 [1774075]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (31)!!! 
+2021-03-14 18:27:25,707 [1777884]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:27:25,707 [1777884]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:30:26,040 [1958217]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:30:26,051 [1958228]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:30:26,504 [1958681]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:30:26,504 [1958681]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:32:15,998 [2068175]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:32:16,004 [2068181]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:32:16,624 [2068801]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:32:16,625 [2068802]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:33:57,732 [2169909]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:33:57,741 [2169918]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:34:06,006 [2178183]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:34:06,007 [2178184]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:34:06,504 [2178681]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:34:06,512 [2178689]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:34:13,371 [2185548]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:34:13,372 [2185549]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:35:30,599 [2262776]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:35:30,605 [2262782]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:35:31,241 [2263418]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:35:31,241 [2263418]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:47:23,256 [2975433]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:47:23,263 [2975440]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:47:23,912 [2976089]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:47:23,913 [2976090]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:47:34,440 [2986617]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:47:34,447 [2986624]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:47:35,159 [2987336]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:47:35,159 [2987336]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:47:44,184 [2996361]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:47:44,195 [2996372]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:47:44,676 [2996853]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:47:44,676 [2996853]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:47:55,593 [3007770]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:47:55,599 [3007776]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:47:56,102 [3008279]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:47:56,102 [3008279]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 18:49:15,755 [3087932]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 18:49:15,767 [3087944]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 18:49:16,307 [3088484]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 18:49:16,308 [3088485]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:02:30,258 [3882435]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-03-14 19:06:05,329 [4097506]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:06:05,339 [4097516]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:06:05,877 [4098054]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:06:05,878 [4098055]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:06:21,686 [4113863]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:06:21,693 [4113870]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:06:22,237 [4114414]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:06:22,237 [4114414]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:08:04,098 [4216275]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:08:04,107 [4216284]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:08:04,597 [4216774]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:08:04,598 [4216775]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:10:56,842 [4389019]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:10:56,849 [4389026]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:10:57,358 [4389535]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:10:57,358 [4389535]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:11:39,489 [4431666]  ERROR - llij.ide.plugins.PluginManager - null 
+java.lang.NullPointerException
+	at com.intellij.ui.content.impl.ContentManagerImpl.getComponent(ContentManagerImpl.java:108)
+	at com.intellij.openapi.wm.impl.ToolWindowImpl.getComponentIfInitialized(ToolWindowImpl.kt:359)
+	at com.intellij.openapi.wm.impl.content.ContentLayout.shouldShowId(ContentLayout.java:86)
+	at com.intellij.openapi.wm.impl.content.ContentLayout.updateIdLabel(ContentLayout.java:49)
+	at com.intellij.openapi.wm.impl.content.TabContentLayout.update(TabContentLayout.java:314)
+	at com.intellij.openapi.wm.impl.content.ToolWindowContentUi.rebuild(ToolWindowContentUi.java:239)
+	at com.intellij.openapi.wm.impl.content.ToolWindowContentUi$1.contentRemoved(ToolWindowContentUi.java:115)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.EventDispatcher.dispatchVoidMethod(EventDispatcher.java:123)
+	at com.intellij.util.EventDispatcher.lambda$createMulticaster$1(EventDispatcher.java:86)
+	at com.sun.proxy.$Proxy98.contentRemoved(Unknown Source)
+	at com.intellij.ui.content.impl.ContentManagerImpl.fireContentRemoved(ContentManagerImpl.java:559)
+	at com.intellij.ui.content.impl.ContentManagerImpl.doRemoveContent(ContentManagerImpl.java:252)
+	at com.intellij.ui.content.impl.ContentManagerImpl.removeContent(ContentManagerImpl.java:194)
+	at com.intellij.ui.content.impl.ContentManagerImpl.removeContent(ContentManagerImpl.java:188)
+	at com.intellij.openapi.wm.impl.content.ContentTabLabel$1.lambda$getAction$0(ContentTabLabel.java:83)
+	at com.intellij.openapi.wm.impl.content.ContentTabLabel$2.execute(ContentTabLabel.java:144)
+	at com.intellij.util.ui.BaseButtonBehavior$MyMouseListener.execute(BaseButtonBehavior.java:173)
+	at com.intellij.util.ui.BaseButtonBehavior$MyMouseListener.mouseReleased(BaseButtonBehavior.java:156)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:976)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:911)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:840)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:454)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:773)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:453)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:822)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:507)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-03-14 19:11:39,491 [4431668]  ERROR - llij.ide.plugins.PluginManager - PyCharm 2020.3  Build #PC-203.5981.165 
+2021-03-14 19:11:39,492 [4431669]  ERROR - llij.ide.plugins.PluginManager - JDK: 11.0.9; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2021-03-14 19:11:39,492 [4431669]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+2021-03-14 19:12:09,007 [4461184]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:12:09,013 [4461190]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:12:09,547 [4461724]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:12:09,547 [4461724]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:14:59,827 [4632004]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:14:59,833 [4632010]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:15:00,267 [4632444]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:15:00,267 [4632444]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:16:21,725 [4713902]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:16:21,732 [4713909]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:16:22,299 [4714476]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:16:22,299 [4714476]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:20:47,930 [4980107]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:20:47,937 [4980114]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:20:48,741 [4980918]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:20:48,741 [4980918]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:21:39,536 [5031713]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:21:39,544 [5031721]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:21:40,182 [5032359]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:21:40,182 [5032359]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:21:48,904 [5041081]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:21:48,915 [5041092]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:21:48,996 [5041173]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:21:48,997 [5041174]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:21:49,005 [5041182]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:21:49,137 [5041314]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:21:49,138 [5041315]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:21:49,152 [5041329]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:24:41,085 [5213262]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:24:41,085 [5213262]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:24:54,337 [5226514]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-03-14 19:24:54,432 [5226609]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-03-14 19:24:54,440 [5226617]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-03-14 19:24:54,456 [5226633]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-03-14 19:24:54,464 [5226641]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-03-14 19:25:14,854 [5247031]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:25:14,860 [5247037]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:25:15,641 [5247818]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:25:15,642 [5247819]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:26:39,048 [5331225]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:26:39,055 [5331232]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:26:39,478 [5331655]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:26:39,479 [5331656]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
+2021-03-14 19:30:30,035 [5562212]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/recdemo 
+2021-03-14 19:30:30,042 [5562219]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-03-14 19:30:30,600 [5562777]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-03-14 19:30:30,600 [5562777]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;python 
