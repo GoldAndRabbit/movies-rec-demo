@@ -21,6 +21,7 @@ from i2i.views          import i2i_view
 
 urlpatterns = [
     url(r'^$'         , home),
+    url(r'^home/'     , home),
     url(r'^embedding/', embedding_view),
     url(r'^i2i/'      , i2i_view),
 ]

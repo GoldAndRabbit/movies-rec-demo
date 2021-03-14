@@ -1,28 +1,8 @@
-<head>
-<div align="center">
-<font size="30" color="Blue">
-    collaborative filter-based i2i match demo
-</font>
-</div>
-</head>
-<body>
-    <table border="1" cellspacing="0" cellpadding="2" >
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center">{{info.index}}</td>
-            {% endfor %}
-        </tr>
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center"><img src={{info.pic}} width="120"></td>
-            {% endfor %}
-        </tr>
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center">{{info.intro}}</td>
-            {% endfor %}
-        </tr>
-    </table>
-</body>
+{% include 'header.html'    %}
+{% include 'top_nav.html'   %}
+{% include 'i2i_body.html'  %}
+{% include 'footer.html'    %}
+
+
 
 
