@@ -18,10 +18,14 @@ from django.conf.urls   import url
 from home.views         import home
 from embbeding.views    import embedding_view
 from i2i.views          import i2i_view
+from crowd.views        import crowd_view
+from about.views        import about_view
 
 urlpatterns = [
     url(r'^$'         , home),
     url(r'^home/'     , home),
     url(r'^embedding/', embedding_view),
     url(r'^i2i/'      , i2i_view),
+    url(r'^crowd/'    , crowd_view),
+    url(r'^about/'    , about_view),
 ]
