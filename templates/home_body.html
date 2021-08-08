@@ -1,48 +1,78 @@
+<!DOCTYPE html>
+<html>
 <head>
-<div align="center">
-<font size="30" color="red">
-   AI猜你喜欢
-</font>
-</div>
+    <meta charset="utf-8">
+    <title>用户增长仪表盘</title>
+    <!-- 引入 echarts.js -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.8.0/echarts-en.common.js" rel="external nofollow" ></script>
 </head>
 <body>
-    <div>
-        输入用户id &nbsp;
-        <input type="text" name="movie_name">
-        <br/>
-        请选择召回策略
-        <label><input name="match" type="radio" value="item_cf"          /> item_cf    </label>
-        <label><input name="match" type="radio" value="swing"   checked  /> swing      </label>
-        <label><input name="match" type="radio" value="two_tower"        /> two_tower  </label>
-        <label><input name="match" type="radio" value="mind"             /> mind       </label>
-        <label><input name="match" type="radio" value="opt_cf"           /> opt-cf     </label>
-        <br/>
-		请选择精排模型
-        <label><input name="rank"  type="radio" value="wdl"              /> wdl        </label>
-        <label><input name="rank"  type="radio" value="deepfm"           /> deepfm     </label>
-        <label><input name="rank"  type="radio" value="xdeepfm" checked  /> xdeepfm    </label>
-        <label><input name="rank"  type="radio" value="dcn"              /> dcn        </label>
-        <label><input name="rank"  type="radio" value="din"              /> din        </label>
-        <br/>
-        <input type="submit" value="submit">
+    <div id="main" style="width: 800px;height:400px;"></div>
+    <script type="text/javascript">
+        var chartDom = document.getElementById('main');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        option = {
+            title: {
+                text: 'DAU用户数'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'cross',
+                    label: {
+                        backgroundColor: '#6a7985'
+                    }
+                }
+            },
+            legend: {
+                data: ['邮件营销']
+            },
+            toolbox: {
+                feature: {
+                    saveAsImage: {}
+                }
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            xAxis: [
+                {
+                    type: 'category',
+                    boundaryGap: false,
+                    data: ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+                }
+            ],
+            yAxis: [
+                {
+                    type: 'value'
+                }
+            ],
+            series: [
+                {
+                    name: 'DAU用户数',
+                    type: 'line',
+                    stack: '总量',
+                    areaStyle: {},
+                    emphasis: {
+                        focus: 'series'
+                    },
+                    data: [120, 132, 101, 134, 90, 230, 210]
+                },
+            ]
+        };
+        option && myChart.setOption(option);
+    </script>
+    <div id="test">
+        {% for content in names %}
+            {{content}}
+        {% endfor %}
+        var List = {{ names }};
+        {{List}}
     </div>
-    <table border="1" cellspacing="1" cellpadding="2" >
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center">{{info.index}}</td>
-            {% endfor %}
-        </tr>
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center"><img src={{info.pic}} width="120"></td>
-            {% endfor %}
-        </tr>
-        <tr>
-            {% for idx, info in movies.items %}
-            <td align="center">{{info.intro}}</td>
-            {% endfor %}
-        </tr>
-    </table>
 </body>
-
-
+</html>

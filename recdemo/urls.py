@@ -20,6 +20,9 @@ from embbeding.views    import embedding_view
 from i2i.views          import i2i_view
 from crowd.views        import crowd_view
 from about.views        import about_view
+from match.views        import match_view
+from user.views         import user_view
+
 
 urlpatterns = [
     url(r'^$'         , home),
@@ -28,4 +31,6 @@ urlpatterns = [
     url(r'^i2i/'      , i2i_view),
     url(r'^crowd/'    , crowd_view),
     url(r'^about/'    , about_view),
+    url(r'^match/'    , match_view),
+    url(r'^user/'     , user_view),
 ]

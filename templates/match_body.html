@@ -1,0 +1,47 @@
+<head>
+<div align="center">
+<font size="30" color="red">
+   AI猜你喜欢
+</font>
+</div>
+</head>
+<body>
+    <div>
+        输入用户id &nbsp;
+        <input type="text" name="movie_name">
+        <br/>
+        请选择召回策略
+        <label><input name="match" type="radio" value="item_cf"          /> item_cf    </label>
+        <label><input name="match" type="radio" value="swing"   checked  /> swing      </label>
+        <label><input name="match" type="radio" value="two_tower"        /> two_tower  </label>
+        <label><input name="match" type="radio" value="mind"             /> mind       </label>
+        <label><input name="match" type="radio" value="opt_cf"           /> opt-cf     </label>
+        <br/>
+		请选择精排模型
+        <label><input name="rank"  type="radio" value="wdl"              /> wdl        </label>
+        <label><input name="rank"  type="radio" value="deepfm"           /> deepfm     </label>
+        <label><input name="rank"  type="radio" value="xdeepfm" checked  /> xdeepfm    </label>
+        <label><input name="rank"  type="radio" value="dcn"              /> dcn        </label>
+        <label><input name="rank"  type="radio" value="din"              /> din        </label>
+        <br/>
+        <input type="submit" value="submit">
+    </div>
+    <table border="1" cellspacing="1" cellpadding="2" >
+        <tr>
+            {% for idx, info in movies.items %}
+            <td align="center">{{info.index}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            {% for idx, info in movies.items %}
+            <td align="center"><img src={{info.pic}} width="120"></td>
+            {% endfor %}
+        </tr>
+        <tr>
+            {% for idx, info in movies.items %}
+            <td align="center">{{info.intro}}</td>
+            {% endfor %}
+        </tr>
+    </table>
+</body>
+
